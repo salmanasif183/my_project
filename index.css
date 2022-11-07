@@ -1,8 +1,7 @@
 * {
   margin: 0;
   padding: 0;
-  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
-    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  font-family: sans-serif;
   box-sizing: border-box;
 }
 main {
@@ -108,7 +107,4 @@ li {
 .cart:hover {
   color: #000000;
   background-color: #ffffff;
-}
-.para {
-  font-weight: bold;
 }
